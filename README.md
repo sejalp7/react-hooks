@@ -1,2 +1,2 @@
-# react-hooks
+# js-concepts
 Created with CodeSandbox
